@@ -1,1 +1,3 @@
 # repo-tengku-github
+NAMA : TENGKU ACHMAD ABDUL RAHMAN
+NIM  : 6701204079
